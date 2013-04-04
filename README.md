@@ -4,7 +4,7 @@ jQuery.horizontalAccordion
 jQuery plugin for responsive horizontal accordion.
 
 Greg Barnes: gregdbarnes@gmail.com made these changes on 2nd April 2013:
-Altered styling, added new easing functionality and new js not stop a user from starting multiple animations (which seemed to break the original).
+Altered styling, added new easing functionality and new js to block starting multiple animations (which seemed to break the original).
 
 __InIt__
 
